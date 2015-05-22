@@ -1,0 +1,143 @@
+#u3138
+{
+	background-color: #FDFEFE;
+	background-color: rgba(150,213,210,0.01);
+	position: relative;
+	-pie-background: rgba(150,213,210,0.01);
+}
+
+#u3138:hover
+{
+	background: #B6E2DF url("../../images/eye-2-u3032-r-fr.png") no-repeat center center;
+	background-color: rgba(150,213,210,0.69);
+}
+
+#u3129
+{
+	position: relative;
+	background: transparent url("../../images/shutter-1.jpg") no-repeat left top;
+}
+
+#u3129:hover
+{
+	background: transparent url("../../images/shutter-2.jpg") no-repeat left top;
+}
+
+#u3137
+{
+	background-color: #FDFEFE;
+	background-color: rgba(150,213,210,0.01);
+	position: relative;
+	-pie-background: rgba(150,213,210,0.01);
+}
+
+#u3137:hover
+{
+	background: #B6E2DF url("../../images/eye-u3031-r-fr.png") no-repeat center center;
+	background-color: rgba(150,213,210,0.69);
+}
+
+#u3140
+{
+	background-color: #FDFEFE;
+	background-color: rgba(150,213,210,0.01);
+	position: relative;
+	-pie-background: rgba(150,213,210,0.01);
+}
+
+#u3140:hover
+{
+	background: #B6E2DF url("../../images/eye-4-u3034-r-fr.png") no-repeat center center;
+	background-color: rgba(150,213,210,0.69);
+}
+
+#u3139
+{
+	background-color: #FDFEFE;
+	background-color: rgba(150,213,210,0.01);
+	position: relative;
+	-pie-background: rgba(150,213,210,0.01);
+}
+
+#u3139:hover
+{
+	background: #B6E2DF url("../../images/eye-3-u3033-r-fr.png") no-repeat center center;
+	background-color: rgba(150,213,210,0.69);
+}
+
+#u3328
+{
+	position: relative;
+	background: transparent url("../../images/t%c3%bcy.png") no-repeat left top;
+}
+
+#u3328:hover
+{
+	background: transparent url("../../images/t%c3%bcy-2.png") no-repeat left top;
+}
+
+#u3126-4
+{
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 9px;
+	text-align: center;
+	font-family: lobster, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u3126
+{
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+}
+
+#u3141,#u3131,#u3135,#u3133,#u3312,#u3127
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u3143
+{
+	position: relative;
+	background: transparent url("../../images/pinterest.png") no-repeat center top;
+}
+
+#u3144
+{
+	position: relative;
+	background: transparent url("../../images/instagram.png") no-repeat center top;
+}
+
+#u3145
+{
+	position: relative;
+	background: transparent url("../../images/facebook.png") no-repeat center top;
+}
+
+#u3146
+{
+	position: relative;
+	background: transparent url("../../images/googlep.png") no-repeat center top;
+}
+
+#u3147
+{
+	position: relative;
+	background: transparent url("../../images/linkedin.png") no-repeat center top;
+}
+
+#u3148
+{
+	position: relative;
+	background: transparent url("../../images/mailto.png") no-repeat center top;
+}
+
+#u3143:hover,#u3144:hover,#u3145:hover,#u3146:hover,#u3147:hover,#u3148:hover
+{
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+

@@ -1,0 +1,189 @@
+#u2264
+{
+	background: transparent url("../images/u2264-grad.png") repeat-y left top;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(255,255,255,0.8)),color-stop(62%, rgba(255,255,255,0.1)));
+	background: -webkit-linear-gradient(left,rgba(255,255,255,0.8) ,rgba(255,255,255,0.1) 62%);
+	background: linear-gradient(to right,rgba(255,255,255,0.8) ,rgba(255,255,255,0.1) 62%);
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+}
+
+#u2787
+{
+	position: relative;
+	background: transparent url("../images/shutter-1.jpg") no-repeat left top;
+}
+
+#u2787:hover
+{
+	background: transparent url("../images/shutter-2.jpg") no-repeat left top;
+}
+
+#u2829
+{
+	background-color: #FDFEFE;
+	background-color: rgba(150,213,210,0.01);
+	position: relative;
+	-pie-background: rgba(150,213,210,0.01);
+}
+
+#u2829:hover
+{
+	background: #B6E2DF url("../images/eye-u2829-r-fr.png") no-repeat center center;
+	background-color: rgba(150,213,210,0.69);
+}
+
+#u2868
+{
+	background-color: #FDFEFE;
+	background-color: rgba(150,213,210,0.01);
+	position: relative;
+	-pie-background: rgba(150,213,210,0.01);
+}
+
+#u2868:hover
+{
+	background: #B6E2DF url("../images/eye-3-u2868-r-fr.png") no-repeat center center;
+	background-color: rgba(150,213,210,0.69);
+}
+
+#u2855
+{
+	background-color: #FDFEFE;
+	background-color: rgba(150,213,210,0.01);
+	position: relative;
+	-pie-background: rgba(150,213,210,0.01);
+}
+
+#u2855:hover
+{
+	background: #B6E2DF url("../images/eye-2-u2855-r-fr.png") no-repeat center center;
+	background-color: rgba(150,213,210,0.69);
+}
+
+#u2877
+{
+	background-color: #FDFEFE;
+	background-color: rgba(150,213,210,0.01);
+	position: relative;
+	-pie-background: rgba(150,213,210,0.01);
+}
+
+#u2877:hover
+{
+	background: #B6E2DF url("../images/eye-4-u2877-r-fr.png") no-repeat center center;
+	background-color: rgba(150,213,210,0.69);
+}
+
+#u2781,#u2805,#u2799,#u2811,#u3270
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2963
+{
+	position: relative;
+	background: transparent url("../images/pinterest.png") no-repeat center top;
+}
+
+#u2964
+{
+	position: relative;
+	background: transparent url("../images/instagram.png") no-repeat center top;
+}
+
+#u2965
+{
+	position: relative;
+	background: transparent url("../images/facebook.png") no-repeat center top;
+}
+
+#u2966
+{
+	position: relative;
+	background: transparent url("../images/googlep.png") no-repeat center top;
+}
+
+#u2967
+{
+	position: relative;
+	background: transparent url("../images/linkedin.png") no-repeat center top;
+}
+
+#u2998
+{
+	position: relative;
+	background: transparent url("../images/mailto.png") no-repeat center top;
+}
+
+#u2963:hover,#u2964:hover,#u2965:hover,#u2966:hover,#u2967:hover,#u2998:hover
+{
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+
+#u3292
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u3288-4
+{
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 17px;
+	text-align: center;
+	font-family: lobster, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u3288-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u3288-2  span /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.2;
+}
+
+#u3288
+{
+	font-size: 12px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+}
+
+#u3185
+{
+	position: relative;
+	background: transparent url("../images/koa%20design1.png") no-repeat center top;
+	background-size: cover;
+}
+
+#u3185:hover
+{
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: cover;
+}
+
+#u3366
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../images/t%c3%bcy.png") no-repeat left top;
+}
+
+#u3366:hover
+{
+	background: transparent url("../images/t%c3%bcy-2.png") no-repeat left top;
+}
+

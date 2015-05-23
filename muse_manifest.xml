@@ -1,0 +1,60 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1432324701755">
+  <folder name="css">
+    <file name="site_global.css" crc="4061189773"/>
+    <file name="master_a-master.css" crc="3823660371" ref="index"/>
+    <file name="index.css" crc="4204877998" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:tablet>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:tablet>index:index"/>
+    <file name="museredirect.js" crc="4117159434" ref="tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="background.png" crc="4240653148" ref="phone>index"/>
+    <file name="bg phone.jpg" crc="483833464" ref="phone>index:tablet>index"/>
+    <file name="logotab.jpg" crc="4193850458" ref="phone>index:tablet>index"/>
+    <file name="shutter-1.jpg" crc="4162982619" ref="phone>index:tablet>index:index"/>
+    <file name="shutter-2.jpg" crc="297838663" ref="phone>index:tablet>index:index"/>
+    <file name="eye-u3031-r-fr.png" crc="3923482105" ref="phone>index:tablet>index:index"/>
+    <file name="123rf.jpg" crc="4084249560" ref="phone>index:tablet>index:index"/>
+    <file name="eye-3-u3033-r-fr.png" crc="4120100777" ref="phone>index:tablet>index:index"/>
+    <file name="istock-1.jpg" crc="63121382" ref="phone>index:tablet>index:index"/>
+    <file name="eye-2-u3032-r-fr.png" crc="4273718458" ref="phone>index:tablet>index:index"/>
+    <file name="fotolia.jpg" crc="331566730" ref="phone>index:tablet>index:index"/>
+    <file name="eye-4-u3034-r-fr.png" crc="444864275" ref="phone>index:tablet>index:index"/>
+    <file name="gritablet.png" crc="137684491" ref="phone>index:tablet>index"/>
+    <file name="koa design1.png" crc="3951936272" ref="phone>index:tablet>index"/>
+    <file name="pinterest.png" crc="4151910523" ref="phone>index:tablet>index:index"/>
+    <file name="instagram.png" crc="265498159" ref="phone>index:tablet>index:index"/>
+    <file name="facebook.png" crc="4247479566" ref="phone>index:tablet>index:index"/>
+    <file name="googlep.png" crc="273452277" ref="phone>index:tablet>index:index"/>
+    <file name="linkedin.png" crc="522358146" ref="phone>index:tablet>index:index"/>
+    <file name="mailto.png" crc="4128799731" ref="phone>index:tablet>index:index"/>
+    <file name="ty-p.png" crc="4024278486" ref="phone>index"/>
+    <file name="ty-2-p.png" crc="73022262" ref="phone>index"/>
+    <file name="ty.png" crc="257223242" ref="tablet>index:index"/>
+    <file name="ty-2.png" crc="3785720032" ref="tablet>index:index"/>
+    <file name="u2264-grad.png" crc="94918201" ref="index"/>
+    <file name="logo-menu.jpg" crc="3919788335" ref="index"/>
+    <file name="gri.png" crc="3802326721" ref="index"/>
+    <file name="koa design12.png" crc="61627302" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3904153783" ref="tablet>index"/>
+      <file name="index.css" crc="4231396961" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4234097578" mt="1432324639850" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="277239171" ref="phone>index"/>
+      <file name="index.css" crc="137629568" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="528925228" mt="1432324663566" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="40478639" mt="1432324685675" redirect="true"/>
+</manifest>

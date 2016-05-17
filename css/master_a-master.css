@@ -30,7 +30,7 @@
 
 #u2829:hover
 {
-	background: #B6E2DF url("../images/eye-u3031-r-fr.png") no-repeat center center;
+	background: #B6E2DF url("../images/eye-u2829-r-fr.png") no-repeat center center;
 	background-color: rgba(150,213,210,0.69);
 }
 
@@ -44,7 +44,7 @@
 
 #u2868:hover
 {
-	background: #B6E2DF url("../images/eye-3-u3033-r-fr.png") no-repeat center center;
+	background: #B6E2DF url("../images/eye-3-u2868-r-fr.png") no-repeat center center;
 	background-color: rgba(150,213,210,0.69);
 }
 
@@ -58,7 +58,7 @@
 
 #u2855:hover
 {
-	background: #B6E2DF url("../images/eye-2-u3032-r-fr.png") no-repeat center center;
+	background: #B6E2DF url("../images/eye-2-u2855-r-fr.png") no-repeat center center;
 	background-color: rgba(150,213,210,0.69);
 }
 
@@ -72,7 +72,7 @@
 
 #u2877:hover
 {
-	background: #B6E2DF url("../images/eye-4-u3034-r-fr.png") no-repeat center center;
+	background: #B6E2DF url("../images/eye-4-u2877-r-fr.png") no-repeat center center;
 	background-color: rgba(150,213,210,0.69);
 }
 
@@ -163,7 +163,7 @@
 #u3185
 {
 	position: relative;
-	background: transparent url("../images/koa%20design12.png") no-repeat center top;
+	background: transparent url("../images/koa%20design1.png") no-repeat center top;
 	background-size: cover;
 }
 
@@ -179,11 +179,11 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/ty.png") no-repeat left top;
+	background: transparent url("../images/t%c3%bcy.png") no-repeat left top;
 }
 
 #u3366:hover
 {
-	background: transparent url("../images/ty-2.png") no-repeat left top;
+	background: transparent url("../images/t%c3%bcy-2.png") no-repeat left top;
 }
 

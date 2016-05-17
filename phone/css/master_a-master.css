@@ -1,9 +1,15 @@
-#u3414
+#u3032
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
+	background-color: #FDFEFE;
+	background-color: rgba(150,213,210,0.01);
 	position: relative;
+	-pie-background: rgba(150,213,210,0.01);
+}
+
+#u3032:hover
+{
+	background: #B6E2DF url("../../images/eye-2-u3032-r-fr.png") no-repeat center center;
+	background-color: rgba(150,213,210,0.69);
 }
 
 #u3023
@@ -31,6 +37,20 @@
 	background-color: rgba(150,213,210,0.69);
 }
 
+#u3034
+{
+	background-color: #FDFEFE;
+	background-color: rgba(150,213,210,0.01);
+	position: relative;
+	-pie-background: rgba(150,213,210,0.01);
+}
+
+#u3034:hover
+{
+	background: #B6E2DF url("../../images/eye-4-u3034-r-fr.png") no-repeat center center;
+	background-color: rgba(150,213,210,0.69);
+}
+
 #u3033
 {
 	background-color: #FDFEFE;
@@ -45,32 +65,15 @@
 	background-color: rgba(150,213,210,0.69);
 }
 
-#u3032
+#u3344
 {
-	background-color: #FDFEFE;
-	background-color: rgba(150,213,210,0.01);
 	position: relative;
-	-pie-background: rgba(150,213,210,0.01);
+	background: transparent url("../../images/t%c3%bcy-p.png") no-repeat left top;
 }
 
-#u3032:hover
+#u3344:hover
 {
-	background: #B6E2DF url("../../images/eye-2-u3032-r-fr.png") no-repeat center center;
-	background-color: rgba(150,213,210,0.69);
-}
-
-#u3034
-{
-	background-color: #FDFEFE;
-	background-color: rgba(150,213,210,0.01);
-	position: relative;
-	-pie-background: rgba(150,213,210,0.01);
-}
-
-#u3034:hover
-{
-	background: #B6E2DF url("../../images/eye-4-u3034-r-fr.png") no-repeat center center;
-	background-color: rgba(150,213,210,0.69);
+	background: transparent url("../../images/t%c3%bcy-2-p.png") no-repeat left top;
 }
 
 #u2515-4
@@ -90,7 +93,7 @@
 	font-weight: 400;
 }
 
-#u1585,#u1529,#u3074,#u3410,#u3027,#u3025,#u3029,#u3338,#u2516
+#u1585,#u1529,#u3074,#u3025,#u3029,#u3027,#u3338,#u2516
 {
 	background-color: transparent;
 	position: relative;
@@ -136,16 +139,5 @@
 {
 	background-repeat: no-repeat;
 	background-position: center bottom;
-}
-
-#u3344
-{
-	position: relative;
-	background: transparent url("../../images/ty-p.png") no-repeat left top;
-}
-
-#u3344:hover
-{
-	background: transparent url("../../images/ty-2-p.png") no-repeat left top;
 }
 

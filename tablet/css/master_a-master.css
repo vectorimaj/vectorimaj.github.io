@@ -65,6 +65,17 @@
 	background-color: rgba(150,213,210,0.69);
 }
 
+#u3328
+{
+	position: relative;
+	background: transparent url("../../images/t%c3%bcy.png") no-repeat left top;
+}
+
+#u3328:hover
+{
+	background: transparent url("../../images/t%c3%bcy-2.png") no-repeat left top;
+}
+
 #u3126-4
 {
 	background-color: transparent;
@@ -82,7 +93,7 @@
 	font-weight: 400;
 }
 
-#u3141,#u3393,#u3131,#u3135,#u3133,#u3312,#u3127
+#u3141,#u3131,#u3135,#u3133,#u3312,#u3127
 {
 	background-color: transparent;
 	position: relative;
@@ -128,16 +139,5 @@
 {
 	background-repeat: no-repeat;
 	background-position: center bottom;
-}
-
-#u3328
-{
-	position: relative;
-	background: transparent url("../../images/ty.png") no-repeat left top;
-}
-
-#u3328:hover
-{
-	background: transparent url("../../images/ty-2.png") no-repeat left top;
 }
 
